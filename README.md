@@ -3,10 +3,10 @@
 
  para correr el juego debes segir las siguientes instrucciones 
 
- '''sh
+ """sh
  cd game
  pyhton3 main.py
- '''
+ """
 
  
 =======
